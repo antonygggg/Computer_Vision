@@ -1,7 +1,7 @@
 # Computer Vision
 
 Computer Vision fundamentals exercises and examples\
-using Numpy, OpenCV, TensorFlow and Keras
+using Numpy, OpenCV, TensorFlow and Keras, include the images and videos
 
 * Intro
 * Linear Filters
