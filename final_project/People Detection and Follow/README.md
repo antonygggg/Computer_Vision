@@ -2,9 +2,9 @@
 
 ### Dependencies :
 
-Python 3.6.4
-NumPy 1.14.0
-OpenCV-Python 3.4.1
+Python 3.6.4  
+NumPy 1.14.0  
+OpenCV-Python 3.4.1  
 pedestrian.xml - must be in the program domain ( included here ).
 
 
