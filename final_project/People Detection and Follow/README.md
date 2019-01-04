@@ -17,7 +17,7 @@ right click on video screen - save screenshot of the current frame, the screensh
 left click on video screen - redetect people with the current frame.
 
 
-### Other Options -
+### Other Options :
 
 record video - in the code the boolean variable 'write_output_video' can be modified to record video of the session,
 the video is saved in the program domain.
