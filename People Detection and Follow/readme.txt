@@ -1,5 +1,3 @@
-Antony Gozes
-
 People Detection and Follow
 
 Dependencies :
